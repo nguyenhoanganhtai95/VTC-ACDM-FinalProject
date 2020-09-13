@@ -48,7 +48,7 @@ Face Detection and Recognition using RetinaFace and ArcFace.
 
 ## ArcFace Video Demo
 
-[![ArcFace Demo](Click Here)](https://www.youtube.com/watch?v=y-D1tReryGA&t=81s)
+[ArcFace Demo](https://www.youtube.com/watch?v=vbwT2UGxn9U&feature=youtu.be)
 
 
 
