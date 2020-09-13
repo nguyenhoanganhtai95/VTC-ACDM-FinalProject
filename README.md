@@ -2,6 +2,11 @@
 # Real-Time ArcFace Multiplex Recognition
 
 Face Detection and Recognition using RetinaFace and ArcFace.
+# Download
+clone git: https://github.com/nguyenhoanganhtai95/VTC-ACDM-FinalProject.git
+download Model.zip from googledrive: https://drive.google.com/file/d/1aLbQAgCm9aq2sjFDEIHjidmt42e3P8jZ/view?usp=sharing
+
+unzip into VTC-ACDM-FinalProject 
 ## How to run
 
 * Install yarn
